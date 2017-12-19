@@ -3,7 +3,7 @@ MAINTAINER clement vandoolaeghe
 
 RUN apt-get update && apt-get install -y \
 redis-cli \
-netcat 
+netcat
 
 
 # Add startup script
