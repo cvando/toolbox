@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 MAINTAINER clement vandoolaeghe
 
 RUN apt-get update && apt-get install -y \
-redis-cli \
+redis-tools \
 netcat
 
 
