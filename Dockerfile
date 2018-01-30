@@ -3,8 +3,10 @@ MAINTAINER clement vandoolaeghe
 
 RUN apt-get update && apt-get install -y \
 redis-tools \
-netcat
-
+netcat \
+iputils-ping \
+postgresql-client \
+mysql-client
 
 # Add startup script
 ADD startup.sh /startup.sh
