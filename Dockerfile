@@ -6,6 +6,7 @@ nano \
 redis-tools \
 netcat \
 iputils-ping \
+dnsutils \
 postgresql-client \
 mysql-client
 
