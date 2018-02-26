@@ -3,6 +3,7 @@ MAINTAINER clement vandoolaeghe
 
 RUN apt-get update && apt-get install -y \
 nano \
+git \
 redis-tools \
 netcat \
 iputils-ping \
