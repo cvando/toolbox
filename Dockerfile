@@ -14,6 +14,7 @@ netcat \
 iputils-ping \
 curl \
 dnsutils \
+tcpdump \
 postgresql-client-10 \
 mysql-client
 
